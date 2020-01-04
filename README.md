@@ -1,6 +1,9 @@
 # CSCI4830 
 This repository contains various topics and examples of my work in Intro to VR at CU Boulder.
 
+<b>Course Objectives</b>  
+This course is designed to introduce students to the field of virtual reality (VR) and provide students with hands-on experience developing applications for modern virtual and augmented reality systems. In the course, students learn about the historical development of virtual reality technology and virtual reality as a research field, gain mastery of fundamental principles, algorithms, and design patterns in computer graphics, discover the perceptual science behind mixed reality technologies, and explore libraries and tools for creating VR experiences such as Unity. The course presents students with individual assignments and a semester long team project to develop a fully-functional application for the Google Cardboard, Gear VR, Oculus Rift, or HTC Vive. The course is primarily designed for ATLAS and computer science undergraduate students. However, graduate students interested in virtual and augmented reality technologies and undergraduates from other programs are also encouraged to take the class.  
+
 Specific topics will include:
 * The historical development of Virtual Reality
 * Computer graphics and 3D modeling
